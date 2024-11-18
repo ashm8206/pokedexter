@@ -27,3 +27,5 @@ Here are available Commands:
         --help : 'prints the help menu'
 
 A simple commandline tool using Rest API calls and concurrent caching mechanism to explore, catch and store caught pokemons in your own personal deck.
+
+## Main Menu
