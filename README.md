@@ -28,10 +28,6 @@ Here are available Commands:
 
 A simple commandline tool using Rest API calls and concurrent caching mechanism to explore, catch and store caught pokemons in your own personal deck.
 
-## Main Menu
-
-[Main Menu](https://github.com/ashm8206/pokedexter/blob/main/assets/MainMenu.png)
-
 ### Main Menu
 
 ![Main Menu](https://github.com/ashm8206/pokedexter/blob/main/assets/MainMenu.png)
