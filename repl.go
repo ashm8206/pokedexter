@@ -65,31 +65,31 @@ func getCommands() map[string]cliCommand {
 			description: "List some location ares (map backwards)",
 			callback:    callbackMapb,
 		},
-		// "explore": {
-		// 	name:        "explore",
-		// 	description: "List all pokemon in a area",
-		// 	callback:    callbackExpore,
-		// },
-		// "catch": {
-		// 	name:        "catch {pokemon name}",
-		// 	description: "Attempt to catch pokemon and add it to our pokedex ",
-		// 	callback:    callbackCatch,
-		// },
+		"explore": {
+			name:        "explore",
+			description: "List all pokemon in a area",
+			callback:    callbackExplore,
+		},
+		"catch": {
+			name:        "catch {pokemon name}",
+			description: "Attempt to catch pokemon and add it to our pokedex ",
+			callback:    callbackCatch,
+		},
 		"exit": {
 			name:        "exit",
 			description: "exists from the cli",
 			callback:    callbackExit,
 		},
-		// "pokedex": {
-		// 	name:        "pokedex",
-		// 	description: "View all pokemon in pokedex",
-		// 	callback:    callbackPokedex,
-		// },
-		// "inspect": {
-		// 	name:        "inspect {pokemon-name}",
-		// 	description: "Inspects the caught pokemon stats",
-		// 	callback:    callbackInspect,
-		// },
+		"pokedex": {
+			name:        "pokedex",
+			description: "View all pokemon in pokedex",
+			callback:    callbackPokedex,
+		},
+		"inspect": {
+			name:        "inspect {pokemon-name}",
+			description: "Inspects the caught pokemon stats",
+			callback:    callbackInspect,
+		},
 	}
 }
 

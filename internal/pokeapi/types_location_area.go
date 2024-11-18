@@ -10,6 +10,7 @@ type LocationAreasResp struct {
 	} `json:"results"`
 }
 
+// Get the struct by pasting API response location/id/ in Json-to-go Site.
 type LocationArea struct {
 	EncounterMethodRates []struct {
 		EncounterMethod struct {
