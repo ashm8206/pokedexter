@@ -34,20 +34,20 @@ A simple commandline tool using Rest API calls and concurrent caching mechanism 
 
 ### Main Menu
 
-[Main Menu](https://github.com/ashm8206/pokedexter/blob/main/assets/MainMenu.png)
+![Main Menu](https://github.com/ashm8206/pokedexter/blob/main/assets/MainMenu.png)
 
 ### Explore
 
-[Explore A Location](https://github.com/ashm8206/pokedexter/blob/main/assets/explore.png)
+![Explore A Location](https://github.com/ashm8206/pokedexter/blob/main/assets/explore.png)
 
 ### List Pokemons
 
-[List Pokemon](https://github.com/ashm8206/pokedexter/blob/main/assets/ListPokemon.png)
+![List Pokemon](https://github.com/ashm8206/pokedexter/blob/main/assets/ListPokemon.png)
 
 ### Catch and Inspect
 
-[Catch and Inspect](https://github.com/ashm8206/pokedexter/blob/main/assets/CatchAndInspect.png)
+![Catch and Inspect](https://github.com/ashm8206/pokedexter/blob/main/assets/CatchAndInspect.png)
 
-### Display Pokedexter
+### Display Pokedexter!
 
-[Display Pokedex](https://github.com/ashm8206/pokedexter/blob/main/assets/DispayPokeDexter.png)
+![Display Pokedex](https://github.com/ashm8206/pokedexter/blob/main/assets/DispayPokeDexter.png)
