@@ -1,3 +1,2 @@
 build:
-	@go build 
-	./pokedexter
+	@go build && ./pokedexter
